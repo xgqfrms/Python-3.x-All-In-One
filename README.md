@@ -5,7 +5,6 @@
 https://docs.python.org/3/
 
 
-
 ## env
 
 https://docs.python.org/zh-cn/3/using/cmdline.html
@@ -15,11 +14,29 @@ $ python -h
 
 $ python -V 
 
+$ python2 -V 
+
+$ python3 -V
+
 ```
 
 https://docs.python.org/zh-cn/3/tutorial/
 
 https://www.runoob.com/python3/python3-basic-syntax.html
+
+
+1. macOS 自带 python 2.x
+
+2. brew 安装 python 3.x
+
+3. IDE 自带/安装 python 2.x/3.x
+
+
+![image](https://user-images.githubusercontent.com/7291672/153267692-cbf2966e-d0c6-4150-adf5-585881594c2c.png)
+
+
+![image](https://user-images.githubusercontent.com/7291672/153269777-60a197e2-03e6-42c9-9da4-dac46a2fa95a.png)
+
 
 ## Python 2.7
 
