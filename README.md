@@ -17,6 +17,11 @@ $ python -V
 
 ```
 
+https://docs.python.org/zh-cn/3/tutorial/
+
+https://www.runoob.com/python3/python3-basic-syntax.html
+
+## Python 2.7
 
 ```sh
 python -h
